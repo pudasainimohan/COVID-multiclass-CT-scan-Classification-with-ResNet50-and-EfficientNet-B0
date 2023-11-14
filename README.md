@@ -10,5 +10,5 @@ The dataset used in the model is Kaggle public data set, which can be found on [
 ## Accuracy
 The following graphs represente the accuracy of the models
 
-![Alt Text](download.png) |![Alt Text](download1.png)
+![Alt Text](download.png) | ![Alt Text](download (1).png)
 
