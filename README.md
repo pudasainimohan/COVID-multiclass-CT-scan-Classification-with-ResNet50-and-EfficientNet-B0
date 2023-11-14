@@ -7,6 +7,8 @@ This repository contains Jupyter Notebooks with Python code for COVID CT scan cl
 ## Dataset
 The dataset used in the model is Kaggle public data set, which can be found on [Here](https://www.kaggle.com/datasets/plameneduardo/a-covid-multiclass-dataset-of-ct-scans/data).
 
+## Accuracy
+The following graphs represente the accuracy of the models
 
-![Alt Text](download.png)
+![Alt Text](download.png) |![Alt Text](download1.png)
 
