@@ -9,5 +9,5 @@ The dataset used in the model is Kaggle public data set, which can be found on [
 
 
 ![Image 1]([URL_to_image_1](https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download%20(1).png)https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download%20(1).png) 
-![Image 2]([URL_to_image_2](https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download.png)https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download.png)
+![Image 2]([URL_to_image_2]("download.png")
 
