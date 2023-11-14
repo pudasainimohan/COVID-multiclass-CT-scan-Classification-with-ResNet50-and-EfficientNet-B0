@@ -6,3 +6,7 @@ This repository contains Jupyter Notebooks with Python code for COVID CT scan cl
 
 ## Dataset
 The dataset used in the model is Kaggle public data set, which can be found on [Here](https://www.kaggle.com/datasets/plameneduardo/a-covid-multiclass-dataset-of-ct-scans/data).
+
+
+![Image 1]([URL_to_image_1](https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download%20(1).png)https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download%20(1).png) | ![Image 2]([URL_to_image_2](https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download.png)https://github.com/pudasainimohan/COVID-multiclass-CT-scan-Classification-with-ResNet50-and-EfficientNet-B0/blob/main/download.png)
+
